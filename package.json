@@ -1,0 +1,21 @@
+{
+  "name": "gamingbot-locale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@firebase/database": "^1.0.5",
+    "botkit-discord": "^0.1.5",
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2",
+    "firebase": "^10.12.2",
+    "firebase-admin": "^12.1.1",
+    "fs": "^0.0.1-security"
+  }
+}
