@@ -3,14 +3,7 @@ const admin = require('firebase-admin'); // Import Firebase Admin SDK
 
 // Replace with your Firebase project configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBS6UsWYsB23f6KD2Oz3UF5CIdzRWS7NvY",
-    authDomain: "dcgamingbot-c1b1c.firebaseapp.com",
-    databaseURL: "https://dcgamingbot-c1b1c-default-rtdb.firebaseio.com",
-    projectId: "dcgamingbot-c1b1c",
-    storageBucket: "dcgamingbot-c1b1c.appspot.com",
-    messagingSenderId: "184275053819",
-    appId: "1:184275053819:web:a3bdd1fffc07d57535d45e",
-    measurementId: "G-65TRC7J3R1"
+return;
   };
 
 admin.initializeApp(firebaseConfig);
