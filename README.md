@@ -1,4 +1,4 @@
 # [ARCHIVED ON 5/2/2025]
-**THE DISCORD TOKEN AND OTHER CREDENTIALS DO _NOT_ WORK BUT HAVE BEEN REMOVED OTHERWISE!!**
+**THE DISCORD TOKEN AND OTHER CREDENTIALS DO _NOT_ WORK BUT HAVE BEEN REMOVED ANYWAYS!!**
 ## This is part of the GamingBot project. A project to make a veristile and fun bot.
 ### Fun Fact: Nova is based off the Gaming Bot.
